@@ -1,0 +1,22 @@
+export const SliderData = [
+  {
+    image:
+      'https://i.ibb.co/6vSjKwr/6.jpg'
+  },
+  {
+    image:
+      'https://i.ibb.co/8gPK0sp/7.jpg'
+  },
+  {
+    image:
+      'https://i.ibb.co/yfbdncX/12.jpg'
+  },
+  {
+    image:
+      'https://i.ibb.co/BgCBBch/16.jpg'
+  },
+  {
+    image:
+      'https://cache.enlaceinmobiliario.cl/DEPTO-5ed8160fd0b4a4.png'
+  }
+];
